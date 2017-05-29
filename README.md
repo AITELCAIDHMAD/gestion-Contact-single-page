@@ -18,5 +18,5 @@ back end :
 - firebase database 
 
 crée par :
-- AIT EL CAID HMAD \n
-L’Ecole Normale Supérieure de l’Enseignement Technique de Mohammedia (ENSET Mohammedia)
+- AIT EL CAID HMAD 
+- L’Ecole Normale Supérieure de l’Enseignement Technique de Mohammedia (ENSET Mohammedia)
